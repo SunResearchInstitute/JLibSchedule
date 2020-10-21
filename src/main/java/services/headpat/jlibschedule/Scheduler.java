@@ -1,10 +1,9 @@
-package services.headpat;
+package services.headpat.jlibschedule;
 
 import lombok.Getter;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 public class Scheduler {
     @Getter

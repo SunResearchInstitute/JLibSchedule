@@ -1,4 +1,4 @@
-package services.headpat;
+package services.headpat.jlibschedule;
 
 import lombok.Getter;
 import lombok.Setter;
